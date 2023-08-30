@@ -1,9 +1,14 @@
-# Table of Contents
-1. [EEG Transfer Learning](#eeg_transfer_learning)
-2. [Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning](#theory_insights_approaches_tl)
-3. [Recent Transfer Learning Approaches](#recent)
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [EEG Transfer Learning](#eeg-transfer-learning)
+- [Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning](#theoretical-aspects-interesting-insights-and-awesome-approaches-for-transfer-learning)
+- [Recent Transfer Learning Approaches](#recent-transfer-learning-approaches)
+
+<!-- TOC end -->
 
 
+
+<!-- TOC --><a name="eeg-transfer-learning"></a>
 ## EEG Transfer Learning
 
 | Papers | Year | Links |
@@ -34,6 +39,7 @@
 | Federated Transfer Learning for EEG Signal Classification | 2021 | https://arxiv.org/abs/2004.12321 | 
 
 
+<!-- TOC --><a name="theoretical-aspects-interesting-insights-and-awesome-approaches-for-transfer-learning"></a>
 ## Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning
 | Papers | Year | Links |
 | --- | --- | --- |
@@ -47,6 +53,7 @@
 | Revisiting Batch Normalization For Practical Domain Adaptation | 2016 | https://arxiv.org/abs/1603.04779 |
 | Invariant Risk Minimization | 2020 | https://arxiv.org/abs/1907.02893 |
 
+<!-- TOC --><a name="recent-transfer-learning-approaches"></a>
 ## Recent Transfer Learning Approaches
 | Papers | Year | Links |
 | --- | --- | --- |
