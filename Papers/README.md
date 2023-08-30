@@ -24,6 +24,8 @@
 | CovMix: Covariance Mixing Regularization for Motor Imagery Decoding | 2022 | https://ieeexplore.ieee.org/document/9734883 |
 | CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup | 2023 | https://arxiv.org/abs/2212.01555 |
 | Transfer Learning in Brain-Computer Interfaces with Adversarial Variational Autoencoders | 2018 | https://arxiv.org/abs/1812.06857 |
+| Information Theoretic Feature Transformation Learning for Brain Interfaces | 2020 | https://pubmed.ncbi.nlm.nih.gov/30932828/ |
+| Federated Transfer Learning for EEG Signal Classification | 2021 | https://arxiv.org/abs/2004.12321 | 
 
 
 # Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning
@@ -34,16 +36,22 @@
 | Gradient Matching for Domain Generalization | 2021 | https://arxiv.org/abs/2104.09937 |
 | Open Set Domain Adaptation: Theoretical Bound and Algorithm | 2020 | https://arxiv.org/abs/1907.08375 |
 | Adaptation Regularization: A General Framework for Transfer Learning | 2013 | https://ieeexplore.ieee.org/document/6550016 |
-|  |  |  |
-
+| DIVA: Domain Invariant Variational Autoencoders | 2019 | https://arxiv.org/abs/1905.10427 |
+| A theory of learning from different domains | 2010 | https://research.google/pubs/pub36364/ |
+| Revisiting Batch Normalization For Practical Domain Adaptation | 2016 | https://arxiv.org/abs/1603.04779 |
+| Invariant Risk Minimization | 2020 | https://arxiv.org/abs/1907.02893 |
 
 # Recent Transfer Learning Approaches
 | Papers | Year | Links |
 | --- | --- | --- |
 | A Comprehensive Survey on Transfer Learning | 2020 | https://arxiv.org/pdf/1911.02685.pdf |
-|  |  |  |
-
-
+| Domain-Adversarial Training of Neural Networks | 2015 | https://arxiv.org/abs/1505.07818 |
+| Domain Generalization with Adversarial Feature Learning | 2018 | https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Domain_Generalization_With_CVPR_2018_paper.pdf|
+| Correlation Alignment for Unsupervised Domain Adaptation | 2016 | https://arxiv.org/abs/1612.01939 |
+| HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation | 2019 | https://arxiv.org/abs/1912.11976 |
+| On Minimum Discrepancy Estimation for Deep Domain Adaptation | 2019 | https://arxiv.org/abs/1901.00282 |
+| Transfer Feature Learning with Joint Distribution Adaptation | 2013 | https://openaccess.thecvf.com/content_iccv_2013/papers/Long_Transfer_Feature_Learning_2013_ICCV_paper.pdf |
+| Wasserstein Distance Guided Representation Learning for Domain Adaptation | 2017 | https://arxiv.org/abs/1707.01217 |
 
 
 
