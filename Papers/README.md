@@ -26,7 +26,25 @@
 | Transfer Learning in Brain-Computer Interfaces with Adversarial Variational Autoencoders | 2018 | https://arxiv.org/abs/1812.06857 |
 
 
-# Theoretical Aspects and Interesting Insights in Transfer Learning
+# Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning
+| Papers | Year | Links |
+| --- | --- | --- |
+| Towards a Theoretical Framework of Out-of-Distribution Generalization | 2021 | https://arxiv.org/abs/2106.04496 |
+| In Search of Lost Domain Generalization | 2020 | https://arxiv.org/abs/2007.01434 |
+| Gradient Matching for Domain Generalization | 2021 | https://arxiv.org/abs/2104.09937 |
+| Open Set Domain Adaptation: Theoretical Bound and Algorithm | 2020 | https://arxiv.org/abs/1907.08375 |
+| Adaptation Regularization: A General Framework for Transfer Learning | 2013 | https://ieeexplore.ieee.org/document/6550016 |
+|  |  |  |
 
 
 # Recent Transfer Learning Approaches
+| Papers | Year | Links |
+| --- | --- | --- |
+| A Comprehensive Survey on Transfer Learning | 2020 | https://arxiv.org/pdf/1911.02685.pdf |
+|  |  |  |
+
+
+
+
+
+
