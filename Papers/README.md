@@ -19,7 +19,11 @@
 | Continual Learning for EEG based Brain Computer Interfaces | 2022 | https://openreview.net/pdf?id=9Y_wci2OC3 |
 | A Novel Semi-supervised Meta Learning Method for Subject-transfer Brain-computer Interface | 2022 | https://arxiv.org/abs/2209.03785 |
 | Meta-learning: Towards Fast Adaptation in Multi-Subject EEG Classification | 2021 | https://ieeexplore.ieee.org/document/9385289 |
-
+| Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts | 2022 | https://arxiv.org/abs/2209.11233 |
+| Transfer Learning With Optimal Transportation and Frequency Mixup for EEG-Based Motor Imagery Recognition | 2022 | https://pubmed.ncbi.nlm.nih.gov/36194720/ |
+| CovMix: Covariance Mixing Regularization for Motor Imagery Decoding | 2022 | https://ieeexplore.ieee.org/document/9734883 |
+| CoTMix: Contrastive Domain Adaptation for Time-Series via Temporal Mixup | 2023 | https://arxiv.org/abs/2212.01555 |
+| Transfer Learning in Brain-Computer Interfaces with Adversarial Variational Autoencoders | 2018 | https://arxiv.org/abs/1812.06857 |
 
 
 # Theoretical Aspects and Interesting Insights in Transfer Learning
