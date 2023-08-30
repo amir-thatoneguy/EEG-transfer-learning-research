@@ -14,9 +14,15 @@
 | An EEG-Based Transfer Learning Method for Cross-Subject Fatigue Mental State Prediction | 2021 | https://www.mdpi.com/1424-8220/21/7/2369 |
 | A Deep Transfer Learning Framework for Sleep Stage Classification with Single-Channel EEG Signals | 2022 | https://www.mdpi.com/1424-8220/22/22/8826 |
 | EEG-Based Emotion Recognition Using Regularized Graph Neural Networks | 2020 | https://arxiv.org/abs/1907.07835 |
+| Subject adaptation network for EEG data analysis | 2019 | https://www.sciencedirect.com/science/article/abs/pii/S1568494619304703 |
+| Subject Adaptive EEG-based Visual Recognition | 2021 | https://arxiv.org/abs/2110.13470 |
+| Continual Learning for EEG based Brain Computer Interfaces | 2022 | https://openreview.net/pdf?id=9Y_wci2OC3 |
+| A Novel Semi-supervised Meta Learning Method for Subject-transfer Brain-computer Interface | 2022 | https://arxiv.org/abs/2209.03785 |
+| Meta-learning: Towards Fast Adaptation in Multi-Subject EEG Classification | 2021 | https://ieeexplore.ieee.org/document/9385289 |
 
 
-# Theoretical Aspects of Transfer Learning
+
+# Theoretical Aspects and Interesting Insights in Transfer Learning
 
 
 # Recent Transfer Learning Approaches
