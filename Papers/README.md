@@ -4,7 +4,7 @@
 3. [Recent Transfer Learning Approaches](#recent)
 
 
-# EEG Transfer Learning
+## EEG Transfer Learning
 
 | Papers | Year | Links |
 | --- | --- | --- |
@@ -34,7 +34,7 @@
 | Federated Transfer Learning for EEG Signal Classification | 2021 | https://arxiv.org/abs/2004.12321 | 
 
 
-# Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning
+## Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning
 | Papers | Year | Links |
 | --- | --- | --- |
 | Towards a Theoretical Framework of Out-of-Distribution Generalization | 2021 | https://arxiv.org/abs/2106.04496 |
@@ -47,7 +47,7 @@
 | Revisiting Batch Normalization For Practical Domain Adaptation | 2016 | https://arxiv.org/abs/1603.04779 |
 | Invariant Risk Minimization | 2020 | https://arxiv.org/abs/1907.02893 |
 
-# Recent Transfer Learning Approaches
+## Recent Transfer Learning Approaches
 | Papers | Year | Links |
 | --- | --- | --- |
 | A Comprehensive Survey on Transfer Learning | 2020 | https://arxiv.org/pdf/1911.02685.pdf |
