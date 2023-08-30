@@ -1,5 +1,7 @@
 # Table of Contents
-1. [EEG Transfer Learning](#introduction)
+1. [EEG Transfer Learning](#eeg_transfer_learning)
+2. [Theoretical Aspects, Interesting Insights, and Awesome Approaches for Transfer Learning](#theory_insights_approaches_tl)
+3. [Recent Transfer Learning Approaches](#recent)
 
 
 # EEG Transfer Learning
